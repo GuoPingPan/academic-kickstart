@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Accomplish&shy;ments"
+title = "News"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,28 +19,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+#[[item]]
+#  title = "Two papers accepted to ICLR 2019, both related to Deep InfoMax (DIM)!"
+#  date_start = "2018-12-01"
+#  date_end = ""
+#  description = ""
 
 +++
+* **December 2018:** Two papers accepted to ICLR 2019, both related to Deep InfoMax (DIM)! 
+_Learning Deep Representations by Mutual information Estimation and Maximization_  (a.k.a. _Deep InfoMax_ or **DIM**) was accepted as an oral presentation (top 1.5% of submissions). _Deep Graph InfoMax_ was accepted as a conference poster.
+* **October 2018:** A paper accepted to AAAI on better mode coverage for generative adversarial networks (GANS) called _Online Adaptive Curriculum Learning for GANs_.
+* **September 2018:** Two workshops papers accepted to NeurIPS 2018. One is on learning representations.
