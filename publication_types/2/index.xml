@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on R Devon Hjelm</title>
+    <link>http://rdevon.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on R Devon Hjelm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://rdevon.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spatio-Temporal Dynamics of Intrinsic Networks in Functional Magnetic Imaging Data Using Recurrent Neural Networks</title>
+      <link>http://rdevon.github.io/publication/hjelm-2018-spatio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/hjelm-2018-spatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum-likelihood augmented discrete generative adversarial networks</title>
+      <link>http://rdevon.github.io/publication/che-2017-maximum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/che-2017-maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep independence network analysis of structural brain imaging: application to schizophrenia</title>
+      <link>http://rdevon.github.io/publication/castro-2016-deep/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/castro-2016-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing dynamic brain graphs of time-varying connectivity in fMRI data: application to healthy controls and patients with schizophrenia</title>
+      <link>http://rdevon.github.io/publication/yu-2015-assessing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/yu-2015-assessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for neuroimaging: a validation study</title>
+      <link>http://rdevon.github.io/publication/plis-2014-deep/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/plis-2014-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restricted Boltzmann machines for neuroimaging: an application in identifying intrinsic networks</title>
+      <link>http://rdevon.github.io/publication/hjelm-2014-restricted/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/hjelm-2014-restricted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

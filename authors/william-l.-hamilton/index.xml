@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William L. Hamilton on R Devon Hjelm</title>
+    <link>http://rdevon.github.io/authors/william-l.-hamilton/</link>
+    <description>Recent content in William L. Hamilton on R Devon Hjelm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://rdevon.github.io/authors/william-l.-hamilton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Graph Infomax</title>
+      <link>http://rdevon.github.io/publication/veli%C4%8Dkovi%C4%87-2018-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/veli%C4%8Dkovi%C4%87-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

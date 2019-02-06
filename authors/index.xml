@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on R Devon Hjelm</title>
+    <link>http://rdevon.github.io/authors/</link>
+    <description>Recent content in Authors on R Devon Hjelm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://rdevon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> others</title>
+      <link>http://rdevon.github.io/authors/others/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aaron C Courville</title>
+      <link>http://rdevon.github.io/authors/aaron-c-courville/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/aaron-c-courville/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aaron Courville</title>
+      <link>http://rdevon.github.io/authors/aaron-courville/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/aaron-courville/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Trischler</title>
+      <link>http://rdevon.github.io/authors/adam-trischler/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/adam-trischler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Fedorov</title>
+      <link>http://rdevon.github.io/authors/alex-fedorov/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/alex-fedorov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex M Lamb</title>
+      <link>http://rdevon.github.io/authors/alex-m-lamb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/alex-m-lamb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aristide Baratin</title>
+      <link>http://rdevon.github.io/authors/aristide-baratin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/aristide-baratin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Athul Paul Jacob</title>
+      <link>http://rdevon.github.io/authors/athul-paul-jacob/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/athul-paul-jacob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audrey Durand</title>
+      <link>http://rdevon.github.io/authors/audrey-durand/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/audrey-durand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bogdan Mazoure</title>
+      <link>http://rdevon.github.io/authors/bogdan-mazoure/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/bogdan-mazoure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devon Hjelm</title>
+      <link>http://rdevon.github.io/authors/devon-hjelm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/devon-hjelm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devon R Hjelm</title>
+      <link>http://rdevon.github.io/authors/devon-r-hjelm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/devon-r-hjelm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Castro</title>
+      <link>http://rdevon.github.io/authors/eduardo-castro/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/eduardo-castro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena A Allen</title>
+      <link>http://rdevon.github.io/authors/elena-a-allen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/elena-a-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik B Erhardt</title>
+      <link>http://rdevon.github.io/authors/erik-b-erhardt/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/erik-b-erhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eswar Damaraju</title>
+      <link>http://rdevon.github.io/authors/eswar-damaraju/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/eswar-damaraju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerry Che</title>
+      <link>http://rdevon.github.io/authors/gerry-che/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/gerry-che/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godfrey Pearlson</title>
+      <link>http://rdevon.github.io/authors/godfrey-pearlson/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/godfrey-pearlson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hans J Johnson</title>
+      <link>http://rdevon.github.io/authors/hans-j-johnson/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/hans-j-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao He</title>
+      <link>http://rdevon.github.io/authors/hao-he/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/hao-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helmut Laufs</title>
+      <link>http://rdevon.github.io/authors/helmut-laufs/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/helmut-laufs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry J Bockholt</title>
+      <link>http://rdevon.github.io/authors/henry-j-bockholt/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/henry-j-bockholt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabela Albuquerque</title>
+      <link>http://rdevon.github.io/authors/isabela-albuquerque/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/isabela-albuquerque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane S Paulsen</title>
+      <link>http://rdevon.github.io/authors/jane-s-paulsen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/jane-s-paulsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey D Long</title>
+      <link>http://rdevon.github.io/authors/jeffrey-d-long/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/jeffrey-d-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica A Turner</title>
+      <link>http://rdevon.github.io/authors/jessica-a-turner/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/jessica-a-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Sui</title>
+      <link>http://rdevon.github.io/authors/jing-sui/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/jing-sui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joao Monteiro</title>
+      <link>http://rdevon.github.io/authors/joao-monteiro/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/joao-monteiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joelle Pineau</title>
+      <link>http://rdevon.github.io/authors/joelle-pineau/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/joelle-pineau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph Paul Cohen</title>
+      <link>http://rdevon.github.io/authors/joseph-paul-cohen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/joseph-paul-cohen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junyoung Chung</title>
+      <link>http://rdevon.github.io/authors/junyoung-chung/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/junyoung-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karan Grewal</title>
+      <link>http://rdevon.github.io/authors/karan-grewal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/karan-grewal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyunghyun Cho</title>
+      <link>http://rdevon.github.io/authors/kyunghyun-cho/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/kyunghyun-cho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurent Dinh</title>
+      <link>http://rdevon.github.io/authors/laurent-dinh/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/laurent-dinh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Ishmael Belghazi</title>
+      <link>http://rdevon.github.io/authors/mohamed-ishmael-belghazi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/mohamed-ishmael-belghazi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mustafa S Cetin</title>
+      <link>http://rdevon.github.io/authors/mustafa-s-cetin/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/mustafa-s-cetin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebojsa Jojic</title>
+      <link>http://rdevon.github.io/authors/nebojsa-jojic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/nebojsa-jojic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petar Veličković</title>
+      <link>http://rdevon.github.io/authors/petar-veli%C4%8Dkovi%C4%87/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/petar-veli%C4%8Dkovi%C4%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phil Bachman</title>
+      <link>http://rdevon.github.io/authors/phil-bachman/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/phil-bachman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pietro Liò</title>
+      <link>http://rdevon.github.io/authors/pietro-li%C3%B2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/pietro-li%C3%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingbao Yu</title>
+      <link>http://rdevon.github.io/authors/qingbao-yu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/qingbao-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Devon Hjelm</title>
+      <link>http://rdevon.github.io/authors/r-devon-hjelm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/r-devon-hjelm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robyn L Miller</title>
+      <link>http://rdevon.github.io/authors/robyn-l-miller/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/robyn-l-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruixiang Zhang</title>
+      <link>http://rdevon.github.io/authors/ruixiang-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/ruixiang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruslan R Salakhutdinov</title>
+      <link>http://rdevon.github.io/authors/ruslan-r-salakhutdinov/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/ruslan-r-salakhutdinov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruslan Salakhutdinov</title>
+      <link>http://rdevon.github.io/authors/ruslan-salakhutdinov/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/ruslan-salakhutdinov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sai Rajeshwar</title>
+      <link>http://rdevon.github.io/authors/sai-rajeshwar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/sai-rajeshwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Lavoie-Marchildon</title>
+      <link>http://rdevon.github.io/authors/samuel-lavoie-marchildon/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/samuel-lavoie-marchildon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergey M Plis</title>
+      <link>http://rdevon.github.io/authors/sergey-m-plis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/sergey-m-plis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sherjil Ozair</title>
+      <link>http://rdevon.github.io/authors/sherjil-ozair/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/sherjil-ozair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srinivas Rachakonda</title>
+      <link>http://rdevon.github.io/authors/srinivas-rachakonda/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/srinivas-rachakonda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thang Doan</title>
+      <link>http://rdevon.github.io/authors/thang-doan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/thang-doan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tong Che</title>
+      <link>http://rdevon.github.io/authors/tong-che/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/tong-che/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tulay Adali</title>
+      <link>http://rdevon.github.io/authors/tulay-adali/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/tulay-adali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vince Calhoun</title>
+      <link>http://rdevon.github.io/authors/vince-calhoun/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/vince-calhoun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vince D Calhoun</title>
+      <link>http://rdevon.github.io/authors/vince-d-calhoun/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/vince-d-calhoun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjie Li</title>
+      <link>http://rdevon.github.io/authors/wenjie-li/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/wenjie-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Fedus</title>
+      <link>http://rdevon.github.io/authors/william-fedus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/william-fedus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William L. Hamilton</title>
+      <link>http://rdevon.github.io/authors/william-l.-hamilton/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/william-l.-hamilton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yangqiu Song</title>
+      <link>http://rdevon.github.io/authors/yangqiu-song/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/yangqiu-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanran Li</title>
+      <link>http://rdevon.github.io/authors/yanran-li/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/yanran-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaroslav Ganin</title>
+      <link>http://rdevon.github.io/authors/yaroslav-ganin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/yaroslav-ganin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoshua Bengio</title>
+      <link>http://rdevon.github.io/authors/yoshua-bengio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/yoshua-bengio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuhui Du</title>
+      <link>http://rdevon.github.io/authors/yuhui-du/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/authors/yuhui-du/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
