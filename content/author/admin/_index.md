@@ -13,7 +13,7 @@ role = "Deep Learning Researcher, Adjunct Professor"
 organizations = [ { name = "Microsoft Research (MSR)", url = "" }, {name = "Mila", url = "http://mila.quebec"}, {name = "University of Montréal", url = ""} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a deep learning researcher at Microsoft Research Montreal, an Adjunct Professor at the University of Montreal, and an associate member of Mila"
+bio = "I am a deep learning researcher at Microsoft Research in Redmond, an Adjunct Professor at the University of Montreal, and an associate member of Mila"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "devon.hjelm@microsoft.com"
@@ -90,10 +90,10 @@ interests = [
 
 +++
 
-I am a Deep Learning Researcher at Microsoft Research (MSR) in Montreal, an Adjunct Professor at the
+I am a Deep Learning Researcher at Microsoft Research (MSR) in Redmond, an Adjunct Professor at the
 Universtiy of Montreal, and an associate member of Mila.
 My research focuses on using mutual information estimation and self-supervision in representation learning for applications in computer vision, natural language processing, and RL.
-My long-term goal is to use machine learning to learn representations that help with scientific discovery.
+My long-term goal is to use machine learning to learn representations through active interaction and exploration of agents in their environment.
 
 I earned my Ph.D. at the University of New Mexico where I focused on Unsupervised Learning with applications to Neuroimaging.
 I then did a postdoc under Yoshua Bengio at Mila as an IVADO "distinguished researcher" fellow, focusing on adversarial learning.
