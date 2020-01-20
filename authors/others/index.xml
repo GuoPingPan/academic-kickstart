@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others on R Devon Hjelm</title>
+    <link>http://rdevon.github.io/authors/others/</link>
+    <description>Recent content in  others on R Devon Hjelm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://rdevon.github.io/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing dynamic brain graphs of time-varying connectivity in fMRI data: application to healthy controls and patients with schizophrenia</title>
+      <link>http://rdevon.github.io/publication/yu-2015-assessing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://rdevon.github.io/publication/yu-2015-assessing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
